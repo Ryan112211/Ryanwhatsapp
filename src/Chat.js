@@ -59,7 +59,7 @@ setinput("")
     timestamp?.toDate()).toUTCString()
 }
 </p>
-<Button onClick={signout}>Sign Out</Button>
+
 
 
 </div>
